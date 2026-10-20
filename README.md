@@ -16,6 +16,6 @@ I am a Computer Science and Information Technology student specializing in Cyber
 
 ### 📈 GitHub Stats
 <!-- You can use github-readme-stats here. Example: -->
-![Yussuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Yussuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=YussufAkram15&show_icons=true&theme=radical)
 
 📫 **How to reach me:** [www.linkedin.com/in/yussuf-akram] | [https://yussufakram15.github.io/]
