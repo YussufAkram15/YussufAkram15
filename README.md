@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Yussuf Akram 👋
 
-<!--
-**YussufAkram15/YussufAkram15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science and Information Technology student specializing in Cybersecurity, with a strong interest in cloud architecture, embedded systems, and secure software development. 
 
-Here are some ideas to get you started:
+### 🛠️ Technical Skills
+* **Languages:** Python, C/C++, Java, JavaScript, HTML, AVR Assembly
+* **Cloud & Infrastructure:** AWS (EC2, S3, IAM, Lambda, Bedrock, CloudFormation)
+* **Cybersecurity:** Cryptography (AES-GCM, RSA), Malware Analysis, Network Security
+* **Hardware & Embedded:** Arduino Uno, Microcontrollers, Sensor Integration
+* **Web & Frameworks:** Astro, Tailwind CSS, Tkinter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Current Focus & Recent Work
+* Building agentic AI workflows using AWS Bedrock and Step Functions.
+* Developing secure Python applications with graphical interfaces.
+* Bridging hardware and software by retrofitting physical systems with custom embedded microcontrollers.
+
+### 📈 GitHub Stats
+<!-- You can use github-readme-stats here. Example: -->
+![Yussuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+📫 **How to reach me:** [www.linkedin.com/in/yussuf-akram] | [https://yussufakram15.github.io/]
